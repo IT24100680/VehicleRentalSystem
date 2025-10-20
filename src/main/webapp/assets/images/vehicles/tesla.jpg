@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tesla Model 3</title>
+    <style>
+        body { margin: 0; padding: 0; background: #f3e5f5; font-family: Arial, sans-serif; }
+        .container { width: 300px; height: 200px; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+        .car-icon { font-size: 4rem; color: #9c27b0; margin-bottom: 10px; }
+        .car-name { font-size: 18px; font-weight: bold; color: #9c27b0; margin-bottom: 5px; }
+        .car-year { font-size: 14px; color: #666; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="car-icon">🚗</div>
+        <div class="car-name">Tesla Model 3</div>
+        <div class="car-year">2024 Electric</div>
+    </div>
+</body>
+</html>
