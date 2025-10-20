@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Honda CR-V</title>
+    <style>
+        body { margin: 0; padding: 0; background: #e8f5e8; font-family: Arial, sans-serif; }
+        .container { width: 300px; height: 200px; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+        .car-icon { font-size: 4rem; color: #2e7d32; margin-bottom: 10px; }
+        .car-name { font-size: 18px; font-weight: bold; color: #2e7d32; margin-bottom: 5px; }
+        .car-year { font-size: 14px; color: #666; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="car-icon">🚙</div>
+        <div class="car-name">Honda CR-V</div>
+        <div class="car-year">2023 SUV</div>
+    </div>
+</body>
+</html>
